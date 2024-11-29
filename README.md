@@ -6,7 +6,7 @@ En este proyecto habrá que modelar dos bases de datos: una en MySQL y otra en P
 
 La base de datos MySQL que habrá que modelar tiene el siguiente diagrama relacional:
 
-![Diagrama Relacional MySQL](assets/images/DiagramaSQL-aa18acda0061d91252602cfdff6c3d50.png)
+![Diagrama Relacional MySQL](./imagenes_readme/db_mysql.png)
 
 En esta base de datos existen las siguientes relaciones:
 
@@ -17,7 +17,7 @@ En esta base de datos existen las siguientes relaciones:
 
 La base de datos PostgreSQL que habrá que modelar tiene el siguiente diagrama relacional:
 
-![Diagrama Relacional PostgreSQL](assets/images/DiagramaPostgreSQL-d3a3386f014f6cce0d2f9ff05cc1c13f.png)
+![Diagrama Relacional PostgreSQL](./imagenes_readme/db_posgre.png)
 
 En esta base de datos existen las siguientes relaciones:
 
