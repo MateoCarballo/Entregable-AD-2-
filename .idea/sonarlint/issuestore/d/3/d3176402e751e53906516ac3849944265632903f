@@ -1,0 +1,69 @@
+
+M
+java:S3740Æ"/Provide the parametrized type for this generic.(ÿ‹Ñ¦8ÖøÃ¾·2
+R
+java:S3740Ø"/Provide the parametrized type for this generic.(¥–úÿÿÿÿÿ8ØøÃ¾·2
+R
+java:S3740ò"/Provide the parametrized type for this generic.(Óê°ıÿÿÿÿ8ÚøÃ¾·2
+
+java:S1319Æ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÿ‹Ñ¦8İøÃ¾·2
+“
+java:S1319Ø"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¥–úÿÿÿÿÿ8ßøÃ¾·2
+“
+java:S1319ò"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Óê°ıÿÿÿÿ8àøÃ¾·2
+X
+java:S1141ï"5Extract this nested try block into a separate method.(ØÍ¢óÿÿÿÿÿ8äøÃ¾·2
+S
+java:S1141„"5Extract this nested try block into a separate method.(á›ìû8çøÃ¾·2
+S
+java:S1141’"5Extract this nested try block into a separate method.(á›ìû8êøÃ¾·2
+S
+java:S1141£"5Extract this nested try block into a separate method.(üÇÍÜ8êøÃ¾·2
+X
+java:S1141´"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8êøÃ¾·2
+S
+java:S1141ò"5Extract this nested try block into a separate method.(â¡Öî8êøÃ¾·2
+S
+java:S1141‡"5Extract this nested try block into a separate method.(·ÁõŠ8êøÃ¾·2
+X
+java:S1141”"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8êøÃ¾·2
+S
+java:S1141œ"5Extract this nested try block into a separate method.(·ÁõŠ8êøÃ¾·2
+X
+java:S1141¨"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8êøÃ¾·2
+S
+java:S1141³"5Extract this nested try block into a separate method.(üÇÍÜ8êøÃ¾·2
+X
+java:S1141½"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8êøÃ¾·2
+S
+java:S1141Æ"5Extract this nested try block into a separate method.(üÇÍÜ8êøÃ¾·2
+X
+java:S1141Í"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8êøÃ¾·2
+X
+java:S1141Õ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8êøÃ¾·2
+S
+java:S1141·"5Extract this nested try block into a separate method.(â¡Öî8êøÃ¾·2
+S
+java:S1141â"5Extract this nested try block into a separate method.(â¡Öî8êøÃ¾·2
+S
+java:S1141ı"5Extract this nested try block into a separate method.(â¡Öî8êøÃ¾·2
+X
+java:S1141Ÿ"5Extract this nested try block into a separate method.(º×õçıÿÿÿÿ8êøÃ¾·2
+R
+java:S1141§"5Extract this nested try block into a separate method.(ø€Ù8êøÃ¾·2
+S
+java:S1141²"5Extract this nested try block into a separate method.(¨Ó†ì8êøÃ¾·2
+S
+java:S1141Ê"5Extract this nested try block into a separate method.(â¡Öî8êøÃ¾·2
+S
+java:S1141İ"5Extract this nested try block into a separate method.(â¡Öî8êøÃ¾·2
+S
+java:S1141÷"5Extract this nested try block into a separate method.(â¡Öî8êøÃ¾·2
+p
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(±³Õ¶8€üÃ¾·2
+U
+java:S1135İ"2Complete the task associated to this TODO comment.(İ¶’üÿÿÿÿ8†üÃ¾·2
+p
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(øßıå8‡üÃ¾·2
+P
+java:S1135Ù"2Complete the task associated to this TODO comment.(€×Ù©8‘üÃ¾·2

@@ -1,0 +1,76 @@
+CREATE DATABASE nombre_base_datos;
+
+
+CREATE TABLE productos (
+    id_producto SERIAL PRIMARY KEY, -- `SERIAL` crea un campo auto-incremental
+    nombre_producto VARCHAR(50) NOT NULL,
+    precio DECIMAL(10, 2),
+    stock INT
+);
+
+INSERT INTO productos (nombre_producto, precio, stock) 
+VALUES ('Producto A', 19.99, 100);
+
+INSERT INTO productos (nombre_producto, precio, stock) 
+VALUES 
+    ('Producto B', 9.99, 50),
+    ('Producto C', 29.99, 150);
+
+
+SELECT * FROM productos;
+
+UPDATE productos 
+SET stock = 200 
+WHERE nombre_producto = 'Producto A';
+
+DELETE FROM productos 
+WHERE nombre_producto = 'Producto B';
+
+DELETE FROM productos;
+
+DROP TABLE productos;
+
+/*
+Para poder crear objetos
+*/
+CREATE TYPE contacto AS (
+    nombre_contacto VARCHAR(50),
+    nif VARCHAR(15),
+    telefono VARCHAR(15),
+    email VARCHAR(75)
+);
+
+-- Para poder usar tipos de datos personalizados en una tabla
+CREATE TABLE proveedores (
+    id_proveedor SERIAL PRIMARY KEY,
+    nombre_proveedor VARCHAR(50) NOT NULL,
+    informacion_contacto contacto  -- Usamos el tipo personalizado aquí
+);
+
+-- Insertar elementos  cuando uno de ellos es un tipo de dato compuesto
+
+INSERT INTO proveedores (nombre_proveedor, informacion_contacto)
+VALUES (
+    'Proveedor A', 
+    ROW('Juan Pérez', 'X1234567Y', '123456789', 'juan@example.com')
+);
+
+
+-- Consultar de una tabla elementos que son un tipo de dato personalizado
+SELECT nombre_proveedor, 
+       informacion_contacto.nombre_contacto, 
+       informacion_contacto.telefono 
+FROM proveedores;
+
+--Hacer un update de una fila que tiene un tipo de dato creado por nosotros
+UPDATE proveedores
+SET informacion_contacto = ROW('Juan Pérez', 'X1234567Y', '987654321', 'juan@nuevo.com')
+WHERE nombre_proveedor = 'Proveedor A';
+
+-- Eliminar el tipo de dato personalizado
+
+DROP TYPE contacto;
+
+
+
+

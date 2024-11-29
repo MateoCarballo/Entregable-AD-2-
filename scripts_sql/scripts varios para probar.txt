@@ -1,0 +1,21 @@
+SELECT a.nombre_almacen, SUM(ap.cantidad)
+FROM almacenes as a 
+INNER JOIN almacenes_productos as ap
+ON a.id_almacen = ap.id_almacen
+GROUP BY a.nombre_almacen;
+
+SELECT * FROM productos;
+
+SELECT * FROM categorias;
+-- NECESITO UNIR LAS TABLAS DE 'productos' <-> 'proveedores' <-> 'categorias'
+
+SELECT prod.id_producto, cate.nombre_categoria
+FROM productos as prod
+INNER JOIN 	categorias as cate
+ON prod.id_categoria = cate.id_categoria
+
+SELECT ;
+
+
+SELECT *
+FROM almacenes_productos

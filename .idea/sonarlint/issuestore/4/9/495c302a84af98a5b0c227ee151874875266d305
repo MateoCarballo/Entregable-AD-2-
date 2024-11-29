@@ -1,0 +1,103 @@
+
+M
+java:S3740³"/Provide the parametrized type for this generic.(£Ô¸Ù8–º¾·2
+R
+java:S3740Ç"/Provide the parametrized type for this generic.(¥–úÿÿÿÿÿ8—º¾·2
+R
+java:S3740Ú"/Provide the parametrized type for this generic.(ÏÓ‚ªûÿÿÿÿ8™º¾·2
+
+java:S1192"pDefine a constant instead of duplicating this literal "Error al recoger el id del proveedor a eliminar" 3 times.(‡ˆô¶8œº¾·2
+d
+java:S1192"GDefine a constant instead of duplicating this literal "\u2550" 3 times.(õô™œ8œº¾·2
+
+java:S1319³"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£Ô¸Ù8œº¾·2
+”
+java:S1319¾"qThe type of "listadoCategorias" should be an interface such as "List" rather than the implementation "ArrayList".(½Âõšûÿÿÿÿ8œº¾·2
+“
+java:S1319Ç"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¥–úÿÿÿÿÿ8œº¾·2
+
+java:S1319Ñ"rThe type of "listadoProveedores" should be an interface such as "List" rather than the implementation "ArrayList".(¨‘º8œº¾·2
+“
+java:S1319Ú"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÏÓ‚ªûÿÿÿÿ8œº¾·2
+“
+java:S1319å"pThe type of "listadoProductos" should be an interface such as "List" rather than the implementation "ArrayList".(õŠÚ–úÿÿÿÿ8œº¾·2
+s	java:S116"WRename this field "MENU_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­µùÖ8¨º¾·2
+r	java:S116"VRename this field "NIF_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ß’ñ8ªº¾·2
+u	java:S116	"YRename this field "NOMBRE_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œçıª8«º¾·2
+ƒ	java:S116
+"bRename this field "NOMBRE_PRODUCTO_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—»·øÿÿÿÿ8­º¾·2
+|	java:S116"[Rename this field "TELEFONO_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¾£ûıÿÿÿÿ8¯º¾·2
+v	java:S116"URename this field "ID_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÍÒ¿ÿÿÿÿÿ8±º¾·2
+u	java:S116"YRename this field "CORREO_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‹âú8²º¾·2
+u	java:S116"YRename this field "PRECIO_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü²¨8´º¾·2
+t	java:S116"XRename this field "STOCK_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±§“ù8´º¾·2
+>
+java:S1170"!Make this final field static too.(­µùÖ8´º¾·2
+>
+java:S1170"!Make this final field static too.(‹ß’ñ8´º¾·2
+>
+java:S1170	"!Make this final field static too.(Œçıª8´º¾·2
+C
+java:S1170
+"!Make this final field static too.(—»·øÿÿÿÿ8´º¾·2
+C
+java:S1170"!Make this final field static too.(©¾£ûıÿÿÿÿ8´º¾·2
+C
+java:S1170"!Make this final field static too.(´ÍÒ¿ÿÿÿÿÿ8´º¾·2
+>
+java:S1170"!Make this final field static too.(½‹âú8´º¾·2
+>
+java:S1170"!Make this final field static too.(Ü²¨8´º¾·2
+>
+java:S1170"!Make this final field static too.(±§“ù8´º¾·2
+G	java:S106"+Replace this use of System.out by a logger.(õô™œ8¼º¾·2
+L	java:S106!"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¼º¾·2
+G	java:S106""+Replace this use of System.out by a logger.(Îñë8¼º¾·2
+G	java:S1063"+Replace this use of System.out by a logger.(õô™œ8½º¾·2
+L	java:S1065"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8½º¾·2
+L	java:S106:"+Replace this use of System.out by a logger.(„‘ó´ÿÿÿÿÿ8½º¾·2
+C	java:S131?""Add a default case to this switch.(¹Í‚€ÿÿÿÿÿ8¾º¾·2
+G	java:S106W"+Replace this use of System.out by a logger.(ÍƒÈ¤8¿º¾·2
+G	java:S106\"+Replace this use of System.out by a logger.(®ÿÊƒ8Àº¾·2
+F	java:S106j"+Replace this use of System.out by a logger.(­ÄŠg8Áº¾·2
+G	java:S106n"+Replace this use of System.out by a logger.(Û„¨‰8Âº¾·2
+L	java:S106s"+Replace this use of System.out by a logger.(äôŠİıÿÿÿÿ8Âº¾·2
+L	java:S106w"+Replace this use of System.out by a logger.(ŒÏ¤İşÿÿÿÿ8Âº¾·2
+G	java:S106|"+Replace this use of System.out by a logger.(’Ñ…¢8Âº¾·2
+M	java:S106"+Replace this use of System.out by a logger.(Àà‰ğÿÿÿÿÿ8Ãº¾·2
+M	java:S106†"+Replace this use of System.out by a logger.(Û¬°ıÿÿÿÿ8Ãº¾·2
+H	java:S106Š"+Replace this use of System.out by a logger.(á¼™å8Ãº¾·2
+H	java:S106˜"+Replace this use of System.out by a logger.(Õ¤×Ø8Äº¾·2
+H	java:S106"+Replace this use of System.out by a logger.(‡ˆô¶8Äº¾·2
+a
+java:S1659£"CDeclare "correo" and all following declarations on a separate line.(ŞÌÄÎ8Åº¾·2
+M	java:S106§"+Replace this use of System.out by a logger.(Õ±¼Òıÿÿÿÿ8Åº¾·2
+M	java:S106¬"+Replace this use of System.out by a logger.(êñŞşÿÿÿÿ8Æº¾·2
+H	java:S106±"+Replace this use of System.out by a logger.(êª«ê8Æº¾·2
+H	java:S106·"+Replace this use of System.out by a logger.(‡ˆô¶8Æº¾·2
+G	java:S106À"+Replace this use of System.out by a logger.(›“»28Çº¾·2
+H	java:S106Æ"+Replace this use of System.out by a logger.(‡ˆô¶8Èº¾·2
+o
+java:S1659Ì"LDeclare "nombreCategoria" and all following declarations on a separate line.(½±óíúÿÿÿÿ8Éº¾·2
+H	java:S106Ó"+Replace this use of System.out by a logger.(ù›•À8Éº¾·2
+H	java:S106×"+Replace this use of System.out by a logger.(åş°8Êº¾·2
+M	java:S106Û"+Replace this use of System.out by a logger.(©ŸÛ÷ùÿÿÿÿ8Êº¾·2
+M	java:S106ß"+Replace this use of System.out by a logger.(”ßÙ÷üÿÿÿÿ8Êº¾·2
+H	java:S106å"+Replace this use of System.out by a logger.(±‚ş½8Êº¾·2
+M	java:S106ì"+Replace this use of System.out by a logger.(‘úá·üÿÿÿÿ8Ìº¾·2
+M	java:S106ø"+Replace this use of System.out by a logger.(°ßßËúÿÿÿÿ8Íº¾·2
+M	java:S106€"+Replace this use of System.out by a logger.(Ø‡§šùÿÿÿÿ8Íº¾·2
+M	java:S106‰"+Replace this use of System.out by a logger.(µºéêøÿÿÿÿ8Îº¾·2
+M	java:S106"+Replace this use of System.out by a logger.(Ø‡§šùÿÿÿÿ8Ïº¾·2
+M	java:S106§"+Replace this use of System.out by a logger.(Á™ï×ıÿÿÿÿ8Ğº¾·2
+M	java:S106­"+Replace this use of System.out by a logger.(Ãò¿—üÿÿÿÿ8Ğº¾·2
+\
+java:S1854´">Remove this useless assignment to local variable "categorias".(¬ô½ò8Ğº¾·2
+M	java:S106¸"+Replace this use of System.out by a logger.(õ…¥œÿÿÿÿÿ8Ñº¾·2
+b
+java:S1854È"?Remove this useless assignment to local variable "proveedores".(ÈñÒ¸üÿÿÿÿ8Òº¾·2
+H	java:S106Ì"+Replace this use of System.out by a logger.(ã³·8Òº¾·2
+[
+java:S1854Û"=Remove this useless assignment to local variable "productos".(ÏÕ€¿8Óº¾·2
+M	java:S106ß"+Replace this use of System.out by a logger.(ùÈãùøÿÿÿÿ8Ôº¾·2
+H	java:S106ú"+Replace this use of System.out by a logger.(Îñë8Õº¾·2
